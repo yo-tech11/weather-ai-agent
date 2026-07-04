@@ -1,0 +1,6 @@
+hermes-agentzip.zip
+*.zip
+.env
+venv/
+__pycache__/
+*.pyc
