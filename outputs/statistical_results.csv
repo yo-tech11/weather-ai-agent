@@ -1,0 +1,6 @@
+city,temperature,humidity,prediction,confidence,trade_signal,balance
+Dehradun,28,72,Maybe Rain,70,HOLD,1000
+Mumbai,29,85,Rain,90,BUY,1025
+Delhi,34,88,Maybe Rain,70,HOLD,1025
+Tokyo,27,82,Rain,90,BUY,1050
+New York,24,65,Maybe Rain,70,HOLD,1050

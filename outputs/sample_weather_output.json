@@ -1,0 +1,12 @@
+{
+  "city": "Dehradun",
+  "temperature_c": 28,
+  "humidity": 72,
+  "condition": "Partly Cloudy",
+  "rain_probability": 65,
+  "prediction": "Maybe Rain",
+  "confidence": 70,
+  "trade_signal": "HOLD",
+  "paper_trade_balance": 1000,
+  "source": "Apify Weather Scraper"
+}
