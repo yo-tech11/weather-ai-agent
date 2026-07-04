@@ -34,7 +34,7 @@ st.caption(
 cities = [
     "Dehradun",
     "Mumbai",
-    "London",
+    "Delhi",
     "Tokyo",
     "New York"
 ]
@@ -288,13 +288,11 @@ try:
     )
 
 
-    # ---------------------------------------------
-    # CONFIDENCE CHART
-    # ---------------------------------------------
-
-    st.subheader(
-        " Confidence by City"
-    )
+    st.subheader("📊 Sample Historical Statistical Results")
+    st.caption(
+    "These records are sample historical results and may differ "
+    "from the current live weather reading."
+)
 
     confidence_chart = (
         df.set_index("city")["confidence"]
